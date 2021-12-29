@@ -1,6 +1,6 @@
-Hi, I’m Manny Lemos\
-I’m interested in automation, artificial intelligence, data collection & analysis, and Robotics\
-I’m currently studying Mechatronics Engineering at McMaster University\
+Hi, I’m Manny Lemos.\
+I’m interested in automation, artificial intelligence, data collection & analysis, and Robotics.\
+I’m currently studying Mechatronics Engineering at McMaster University.\
 You can reach me at mannylemos@outlook.com
 
 <!---
