@@ -1,5 +1,6 @@
 Hi, I’m Manny Lemos.\
-I’m interested in automation, artificial intelligence, data collection & analysis, and Robotics.\
+I'm extremely passionate about full stack web development.\
+
 McMaster Mechatronics Engineering '23
 
 <!---
