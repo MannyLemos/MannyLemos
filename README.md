@@ -1,7 +1,4 @@
-Hi, I’m Manny Lemos.\
-I'm extremely passionate about full stack web development.\
-
-McMaster Mechatronics Engineering '23
+Workin on the weekend like usual.
 
 <!---
 MannyLemos/MannyLemos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
